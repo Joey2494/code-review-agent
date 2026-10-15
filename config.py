@@ -1,7 +1,7 @@
 import os
 
-DASHSCOPE_API_KEY = "sk-ws-H.PEMRPHM.WP2R.MEQCIE_8nh-PBieDLDLYbKPQ1I4sCYReo0xapgB1nFORfPg1AiAbIJFJh5hgnnA6kPNOVYhh22rvN3IxFY8YxdPnf55peQ"
+DASHSCOPE_API_KEY = "sk-xxxxxx"
 
-# 模型配置
-MODEL_NAME = "qwen-turbo"  # 通义千问模型
+
+MODEL_NAME = "qwen-turbo"
 TEMPERATURE = 0.3
